@@ -1,6 +1,6 @@
 title: Building With AI
-description: What I learned building seven projects in ten days with AI coding tools.
-url: "" # Set to https://yourusername.github.io after creating the repo
+description: Notes on building software with AI
+url: "https://gsachs.github.io" # Set to https://gsachs.github.io after creating the repo
 baseurl: ""
 
 markdown: kramdown
