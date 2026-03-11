@@ -36,7 +36,7 @@ main {
 .site-header {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 2rem 1.5rem 1rem;
+  padding: 2rem 1.5rem 0.25rem;
 }
 
 .site-title {
@@ -62,7 +62,7 @@ main {
 
 /* === Index page === */
 .index-intro {
-  margin: 0.5rem 0 2rem;
+  margin: 0 0 2rem;
   font-size: 1.1rem;
   color: var(--text-muted);
 }
