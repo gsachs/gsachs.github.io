@@ -62,7 +62,7 @@ main {
 
 /* === Index page === */
 .index-intro {
-  margin: 2rem 0 3rem;
+  margin: 0.5rem 0 2rem;
   font-size: 1.1rem;
   color: var(--text-muted);
 }
