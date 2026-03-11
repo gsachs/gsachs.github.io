@@ -1,0 +1,20 @@
+title: Building With AI
+description: What I learned building seven projects in ten days with AI coding tools.
+url: "" # Set to https://yourusername.github.io after creating the repo
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: /:slug/
+
+# No plugins needed — GitHub Pages supports these natively
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
